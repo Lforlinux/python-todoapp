@@ -18,7 +18,8 @@ curl http://localhost:5000/
 Intial v1 release features, 
 
 * Can just add and view the tasks
-* use lforlinux/python-todoapp:1.0 
+* use lforlinux/python-todoapp:1.0 - for linux/arm64 Mac system
+* use lforlinux/python-todoapp:1.1 - for x86_64 GNU/Linux
 
 
 To-do!
