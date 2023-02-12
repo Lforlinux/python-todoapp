@@ -14,3 +14,17 @@ curl http://localhost:5000/
 ```
  curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "task=Write an article" http://127.0.0.1:5000/
 ```
+
+Intial v1 release features, 
+
+* Can just add and view the tasks
+* use lforlinux/python-todoapp:1.0 
+
+
+To-do!
+* use Database
+* Delete entires 
+* Rich UI
+* EDIT tasks
+* ID for each tasks
+* Status label for tasks
